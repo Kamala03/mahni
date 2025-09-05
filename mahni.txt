@@ -13,3 +13,5 @@ mənim mahnim dinlənən olsun
 nə Aygün nə Namiq yazmiş olsun
 Ayti qaqaş bəlkə müğənni olsun?
 
+
+git tagler ucun yaradilib 
